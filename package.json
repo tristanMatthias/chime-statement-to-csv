@@ -1,0 +1,16 @@
+{
+  "name": "chime2csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "bin": {
+    "chime2csv": "convert.js"
+  },
+  "author": "Tristan Matthias",
+  "license": "ISC",
+  "devDependencies": {
+    "json2csv": "^5.0.7",
+    "pdf2json": "^2.0.0",
+    "yargs": "^17.4.0"
+  }
+}
